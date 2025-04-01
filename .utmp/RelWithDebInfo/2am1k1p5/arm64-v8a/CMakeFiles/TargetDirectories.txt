@@ -1,0 +1,5 @@
+/Users/a3-hammad/Documents/GitHub/VR-project-final-year/.utmp/RelWithDebInfo/2am1k1p5/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/a3-hammad/Documents/GitHub/VR-project-final-year/.utmp/RelWithDebInfo/2am1k1p5/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/a3-hammad/Documents/GitHub/VR-project-final-year/.utmp/RelWithDebInfo/2am1k1p5/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/a3-hammad/Documents/GitHub/VR-project-final-year/.utmp/RelWithDebInfo/2am1k1p5/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/a3-hammad/Documents/GitHub/VR-project-final-year/.utmp/RelWithDebInfo/2am1k1p5/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
